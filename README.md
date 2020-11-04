@@ -20,8 +20,7 @@ Requirements:
 
 \* means that some prior exposure to quantum optics will help in the project
 
-|
- | **Topic** | **Reference** |
+|**No**| **Topic** | **Reference** |
 | --- | --- | --- |
 | 1 | Accessing the optical nonlinearity of metals with metal–dielectric photonic bandgap structures | Sankalp (180260032) Parth (180260026) Karthik (180260018) Jai (180260017) |
 | 2 | Nonlinear susceptibility of composite optical materials in the Maxwell Garnett model | Shashank Deshpande (180260034) Shreyas Chandgothia (180360037) Saanika Chaudhary (180260029) Gattu Mytraya (180050032) |
