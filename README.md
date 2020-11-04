@@ -1,6 +1,8 @@
-## PH 421 Photonics: Project (2020)
+## PH 421 Photonics: Student Projects (2020)
 
 ### **Instructor:** Professor Anshuman Kumar, Physics Department, IIT Bombay
+
+Project topics have been decided by the instructor keeping the match with our course content in mind. No changes are permitted in the project topics as of now.
 
 Total strength is 62, so we will have 15 groups of 4 people each and 1 group of 2 people.
 
