@@ -1,13 +1,14 @@
 ## PH 421 Photonics: Student Projects (2020)
 
-tl;dr 1: Jupyter notebooks for each of the (numbered) projects below are available in the accompanying folder.
-tl;dr 2: A YouTube playlist where each student group explains their work is available here: https://www.youtube.com/playlist?list=PLBAf4P2YTnSXPZweM9IyjgMBpncjYdKqB
-
 ### **Instructor:** Professor Anshuman Kumar, Physics Department, IIT Bombay
 
-Project topics have been decided by the instructor keeping the match with our course content in mind. No changes are permitted in the project topics as of now.
+tl;dr 1: Jupyter notebooks for each of the (numbered) projects below are available in the accompanying folder.
 
-Total strength is 62, so we will have 15 groups of 4 people each and 1 group of 2 people.
+tl;dr 2: A YouTube playlist where each student group explains their work is available here: https://www.youtube.com/playlist?list=PLBAf4P2YTnSXPZweM9IyjgMBpncjYdKqB
+
+- Project topics have been decided by the instructor keeping the match with our course content in mind. No changes are permitted in the project topics as of now.
+
+- Total strength is 62, so we will have 15 groups of 4 people each and 1 group of 2 people.
 
 Requirements:
 
